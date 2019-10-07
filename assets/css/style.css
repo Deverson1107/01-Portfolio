@@ -1,0 +1,57 @@
+header {
+    border-bottom: 2px solid grey; 
+    height: 60px;
+}
+body {
+    background-image: url("../images/so-white.png");
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#name-header {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 25px;
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+
+#teal {
+    color: #4aaaa5;
+}
+
+a:link, a:visited  {
+    color: grey;
+    text-decoration: none;
+  }
+
+#links {
+    width: 20%;
+    float: right;
+    word-spacing: 10px;
+}
+
+footer {
+    background-color: #666666;
+    color: rgb(187, 187, 187);
+    text-size-adjust: 12px;
+    padding-top: 20px;
+    padding-bottom: 3px;
+    border-top: 10px solid #4aaaa5;
+    width: 100%;
+    text-align: center;
+
+}
+
+.content {
+    background-color: white;
+    color: #777777;
+    width: 960px;
+    border: 2px solid #dddddd;
+    padding: 20px;
+    margin-top: 1in;
+    margin-bottom: 1in;
+}
+
+
+
